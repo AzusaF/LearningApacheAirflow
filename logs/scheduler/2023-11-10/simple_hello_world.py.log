@@ -15279,3 +15279,122 @@
 [2023-11-10T16:46:03.304-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:46:03.304-0500] {dag.py:2941} INFO - Sync 1 DAGs
 [2023-11-10T16:46:03.314-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:46:03.314-0500] {dag.py:3722} INFO - Setting next_dagrun for hello_world to 2023-11-10T00:00:00+00:00, run_after=2023-11-11T00:00:00+00:00
 [2023-11-10T16:46:03.324-0500] {processor.py:179} INFO - Processing /Users/az/airflow/dags/simple_hello_world.py took 0.152 seconds
+[2023-11-10T16:46:34.442-0500] {processor.py:157} INFO - Started process (PID=87399) to work on /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:46:34.446-0500] {processor.py:829} INFO - Processing file /Users/az/airflow/dags/simple_hello_world.py for tasks to queue
+[2023-11-10T16:46:34.447-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:46:34.447-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:46:34.463-0500] {processor.py:839} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:46:34.572-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:46:34.572-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-10T16:46:34.582-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:46:34.582-0500] {dag.py:3722} INFO - Setting next_dagrun for hello_world to 2023-11-10T00:00:00+00:00, run_after=2023-11-11T00:00:00+00:00
+[2023-11-10T16:46:34.592-0500] {processor.py:179} INFO - Processing /Users/az/airflow/dags/simple_hello_world.py took 0.150 seconds
+[2023-11-10T16:47:05.729-0500] {processor.py:157} INFO - Started process (PID=87434) to work on /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:47:05.733-0500] {processor.py:829} INFO - Processing file /Users/az/airflow/dags/simple_hello_world.py for tasks to queue
+[2023-11-10T16:47:05.734-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:47:05.734-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:47:05.750-0500] {processor.py:839} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:47:05.860-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:47:05.860-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-10T16:47:05.870-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:47:05.870-0500] {dag.py:3722} INFO - Setting next_dagrun for hello_world to 2023-11-10T00:00:00+00:00, run_after=2023-11-11T00:00:00+00:00
+[2023-11-10T16:47:05.880-0500] {processor.py:179} INFO - Processing /Users/az/airflow/dags/simple_hello_world.py took 0.152 seconds
+[2023-11-10T16:47:37.035-0500] {processor.py:157} INFO - Started process (PID=87448) to work on /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:47:37.047-0500] {processor.py:829} INFO - Processing file /Users/az/airflow/dags/simple_hello_world.py for tasks to queue
+[2023-11-10T16:47:37.048-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:47:37.048-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:47:37.064-0500] {processor.py:839} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:47:37.173-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:47:37.173-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-10T16:47:37.183-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:47:37.183-0500] {dag.py:3722} INFO - Setting next_dagrun for hello_world to 2023-11-10T00:00:00+00:00, run_after=2023-11-11T00:00:00+00:00
+[2023-11-10T16:47:37.199-0500] {processor.py:179} INFO - Processing /Users/az/airflow/dags/simple_hello_world.py took 0.165 seconds
+[2023-11-10T16:48:08.361-0500] {processor.py:157} INFO - Started process (PID=87470) to work on /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:48:08.366-0500] {processor.py:829} INFO - Processing file /Users/az/airflow/dags/simple_hello_world.py for tasks to queue
+[2023-11-10T16:48:08.366-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:48:08.366-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:48:08.383-0500] {processor.py:839} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:48:08.492-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:48:08.492-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-10T16:48:08.502-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:48:08.502-0500] {dag.py:3722} INFO - Setting next_dagrun for hello_world to 2023-11-10T00:00:00+00:00, run_after=2023-11-11T00:00:00+00:00
+[2023-11-10T16:48:08.513-0500] {processor.py:179} INFO - Processing /Users/az/airflow/dags/simple_hello_world.py took 0.152 seconds
+[2023-11-10T16:48:39.612-0500] {processor.py:157} INFO - Started process (PID=87498) to work on /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:48:39.616-0500] {processor.py:829} INFO - Processing file /Users/az/airflow/dags/simple_hello_world.py for tasks to queue
+[2023-11-10T16:48:39.617-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:48:39.617-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:48:39.633-0500] {processor.py:839} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:48:39.743-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:48:39.742-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-10T16:48:39.752-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:48:39.752-0500] {dag.py:3722} INFO - Setting next_dagrun for hello_world to 2023-11-10T00:00:00+00:00, run_after=2023-11-11T00:00:00+00:00
+[2023-11-10T16:48:39.763-0500] {processor.py:179} INFO - Processing /Users/az/airflow/dags/simple_hello_world.py took 0.152 seconds
+[2023-11-10T16:49:10.740-0500] {processor.py:157} INFO - Started process (PID=87505) to work on /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:49:10.744-0500] {processor.py:829} INFO - Processing file /Users/az/airflow/dags/simple_hello_world.py for tasks to queue
+[2023-11-10T16:49:10.745-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:49:10.745-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:49:10.761-0500] {processor.py:839} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:49:10.870-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:49:10.870-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-10T16:49:10.880-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:49:10.880-0500] {dag.py:3722} INFO - Setting next_dagrun for hello_world to 2023-11-10T00:00:00+00:00, run_after=2023-11-11T00:00:00+00:00
+[2023-11-10T16:49:10.891-0500] {processor.py:179} INFO - Processing /Users/az/airflow/dags/simple_hello_world.py took 0.152 seconds
+[2023-11-10T16:49:43.347-0500] {processor.py:157} INFO - Started process (PID=87577) to work on /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:49:43.352-0500] {processor.py:829} INFO - Processing file /Users/az/airflow/dags/simple_hello_world.py for tasks to queue
+[2023-11-10T16:49:43.352-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:49:43.352-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:49:43.369-0500] {processor.py:839} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:49:43.487-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:49:43.486-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-10T16:49:43.497-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:49:43.497-0500] {dag.py:3722} INFO - Setting next_dagrun for hello_world to 2023-11-10T00:00:00+00:00, run_after=2023-11-11T00:00:00+00:00
+[2023-11-10T16:49:43.508-0500] {processor.py:179} INFO - Processing /Users/az/airflow/dags/simple_hello_world.py took 0.161 seconds
+[2023-11-10T16:50:14.623-0500] {processor.py:157} INFO - Started process (PID=87600) to work on /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:50:14.628-0500] {processor.py:829} INFO - Processing file /Users/az/airflow/dags/simple_hello_world.py for tasks to queue
+[2023-11-10T16:50:14.628-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:50:14.628-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:50:14.644-0500] {processor.py:839} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:50:14.754-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:50:14.754-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-10T16:50:14.764-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:50:14.764-0500] {dag.py:3722} INFO - Setting next_dagrun for hello_world to 2023-11-10T00:00:00+00:00, run_after=2023-11-11T00:00:00+00:00
+[2023-11-10T16:50:14.774-0500] {processor.py:179} INFO - Processing /Users/az/airflow/dags/simple_hello_world.py took 0.152 seconds
+[2023-11-10T16:50:45.708-0500] {processor.py:157} INFO - Started process (PID=87613) to work on /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:50:45.713-0500] {processor.py:829} INFO - Processing file /Users/az/airflow/dags/simple_hello_world.py for tasks to queue
+[2023-11-10T16:50:45.713-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:50:45.713-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:50:45.730-0500] {processor.py:839} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:50:45.847-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:50:45.846-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-10T16:50:45.857-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:50:45.857-0500] {dag.py:3722} INFO - Setting next_dagrun for hello_world to 2023-11-10T00:00:00+00:00, run_after=2023-11-11T00:00:00+00:00
+[2023-11-10T16:50:45.868-0500] {processor.py:179} INFO - Processing /Users/az/airflow/dags/simple_hello_world.py took 0.161 seconds
+[2023-11-10T16:51:17.036-0500] {processor.py:157} INFO - Started process (PID=87621) to work on /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:51:17.040-0500] {processor.py:829} INFO - Processing file /Users/az/airflow/dags/simple_hello_world.py for tasks to queue
+[2023-11-10T16:51:17.041-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:51:17.041-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:51:17.058-0500] {processor.py:839} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:51:17.187-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:51:17.187-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-10T16:51:17.197-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:51:17.197-0500] {dag.py:3722} INFO - Setting next_dagrun for hello_world to 2023-11-10T00:00:00+00:00, run_after=2023-11-11T00:00:00+00:00
+[2023-11-10T16:51:17.208-0500] {processor.py:179} INFO - Processing /Users/az/airflow/dags/simple_hello_world.py took 0.172 seconds
+[2023-11-10T16:51:48.158-0500] {processor.py:157} INFO - Started process (PID=87634) to work on /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:51:48.162-0500] {processor.py:829} INFO - Processing file /Users/az/airflow/dags/simple_hello_world.py for tasks to queue
+[2023-11-10T16:51:48.163-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:51:48.163-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:51:48.179-0500] {processor.py:839} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:51:48.290-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:51:48.290-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-10T16:51:48.300-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:51:48.300-0500] {dag.py:3722} INFO - Setting next_dagrun for hello_world to 2023-11-10T00:00:00+00:00, run_after=2023-11-11T00:00:00+00:00
+[2023-11-10T16:51:48.311-0500] {processor.py:179} INFO - Processing /Users/az/airflow/dags/simple_hello_world.py took 0.154 seconds
+[2023-11-10T16:52:19.257-0500] {processor.py:157} INFO - Started process (PID=87656) to work on /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:52:19.261-0500] {processor.py:829} INFO - Processing file /Users/az/airflow/dags/simple_hello_world.py for tasks to queue
+[2023-11-10T16:52:19.262-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:52:19.262-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:52:19.278-0500] {processor.py:839} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:52:19.386-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:52:19.386-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-10T16:52:19.396-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:52:19.396-0500] {dag.py:3722} INFO - Setting next_dagrun for hello_world to 2023-11-10T00:00:00+00:00, run_after=2023-11-11T00:00:00+00:00
+[2023-11-10T16:52:19.406-0500] {processor.py:179} INFO - Processing /Users/az/airflow/dags/simple_hello_world.py took 0.149 seconds
+[2023-11-10T16:52:50.339-0500] {processor.py:157} INFO - Started process (PID=87676) to work on /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:52:50.344-0500] {processor.py:829} INFO - Processing file /Users/az/airflow/dags/simple_hello_world.py for tasks to queue
+[2023-11-10T16:52:50.344-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:52:50.344-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:52:50.360-0500] {processor.py:839} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:52:50.471-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:52:50.471-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-10T16:52:50.481-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:52:50.481-0500] {dag.py:3722} INFO - Setting next_dagrun for hello_world to 2023-11-10T00:00:00+00:00, run_after=2023-11-11T00:00:00+00:00
+[2023-11-10T16:52:50.491-0500] {processor.py:179} INFO - Processing /Users/az/airflow/dags/simple_hello_world.py took 0.152 seconds
+[2023-11-10T16:53:23.096-0500] {processor.py:157} INFO - Started process (PID=87759) to work on /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:53:23.100-0500] {processor.py:829} INFO - Processing file /Users/az/airflow/dags/simple_hello_world.py for tasks to queue
+[2023-11-10T16:53:23.100-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:53:23.100-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:53:23.122-0500] {processor.py:839} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:53:23.233-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:53:23.232-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-10T16:53:23.243-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:53:23.243-0500] {dag.py:3722} INFO - Setting next_dagrun for hello_world to 2023-11-10T00:00:00+00:00, run_after=2023-11-11T00:00:00+00:00
+[2023-11-10T16:53:23.253-0500] {processor.py:179} INFO - Processing /Users/az/airflow/dags/simple_hello_world.py took 0.158 seconds
+[2023-11-10T16:53:54.760-0500] {processor.py:157} INFO - Started process (PID=87860) to work on /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:53:54.765-0500] {processor.py:829} INFO - Processing file /Users/az/airflow/dags/simple_hello_world.py for tasks to queue
+[2023-11-10T16:53:54.765-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:53:54.765-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:53:54.781-0500] {processor.py:839} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:53:54.889-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:53:54.889-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-10T16:53:54.899-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:53:54.899-0500] {dag.py:3722} INFO - Setting next_dagrun for hello_world to 2023-11-10T00:00:00+00:00, run_after=2023-11-11T00:00:00+00:00
+[2023-11-10T16:53:54.909-0500] {processor.py:179} INFO - Processing /Users/az/airflow/dags/simple_hello_world.py took 0.150 seconds
+[2023-11-10T16:54:26.629-0500] {processor.py:157} INFO - Started process (PID=87892) to work on /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:54:26.633-0500] {processor.py:829} INFO - Processing file /Users/az/airflow/dags/simple_hello_world.py for tasks to queue
+[2023-11-10T16:54:26.634-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:54:26.634-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:54:26.650-0500] {processor.py:839} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:54:26.760-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:54:26.760-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-10T16:54:26.771-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:54:26.770-0500] {dag.py:3722} INFO - Setting next_dagrun for hello_world to 2023-11-10T00:00:00+00:00, run_after=2023-11-11T00:00:00+00:00
+[2023-11-10T16:54:26.781-0500] {processor.py:179} INFO - Processing /Users/az/airflow/dags/simple_hello_world.py took 0.153 seconds
+[2023-11-10T16:54:58.020-0500] {processor.py:157} INFO - Started process (PID=87949) to work on /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:54:58.023-0500] {processor.py:829} INFO - Processing file /Users/az/airflow/dags/simple_hello_world.py for tasks to queue
+[2023-11-10T16:54:58.024-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:54:58.024-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:54:58.040-0500] {processor.py:839} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /Users/az/airflow/dags/simple_hello_world.py
+[2023-11-10T16:54:58.149-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:54:58.149-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-10T16:54:58.159-0500] {logging_mixin.py:154} INFO - [2023-11-10T16:54:58.159-0500] {dag.py:3722} INFO - Setting next_dagrun for hello_world to 2023-11-10T00:00:00+00:00, run_after=2023-11-11T00:00:00+00:00
+[2023-11-10T16:54:58.184-0500] {processor.py:179} INFO - Processing /Users/az/airflow/dags/simple_hello_world.py took 0.165 seconds
