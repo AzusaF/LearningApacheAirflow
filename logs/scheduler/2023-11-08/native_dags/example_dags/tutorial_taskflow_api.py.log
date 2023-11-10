@@ -1,0 +1,396 @@
+[2023-11-08T17:47:06.484-0500] {processor.py:157} INFO - Started process (PID=48872) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:47:06.488-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T17:47:06.488-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:47:06.488-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:47:06.521-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:47:06.886-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:47:06.886-0500] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-08T17:47:06.891-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:47:06.891-0500] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-08T17:47:06.894-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:47:06.894-0500] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-08T17:47:06.894-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:47:06.894-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T17:47:06.899-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:47:06.899-0500] {dag.py:2963} INFO - Creating ORM DAG for tutorial_taskflow_api
+[2023-11-08T17:47:06.900-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:47:06.900-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T17:47:06.910-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.427 seconds
+[2023-11-08T17:48:42.855-0500] {processor.py:157} INFO - Started process (PID=49010) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:48:42.866-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T17:48:42.867-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:48:42.867-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:48:42.900-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:48:43.007-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:48:43.007-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T17:48:43.014-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:48:43.014-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T17:48:43.027-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.172 seconds
+[2023-11-08T17:49:46.796-0500] {processor.py:157} INFO - Started process (PID=49104) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:49:46.809-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T17:49:46.811-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:49:46.811-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:49:46.855-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:49:46.960-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:49:46.960-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T17:49:46.966-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:49:46.966-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T17:49:46.977-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.183 seconds
+[2023-11-08T17:50:46.444-0500] {processor.py:157} INFO - Started process (PID=49221) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:50:46.449-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T17:50:46.449-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:50:46.449-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:50:46.481-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:50:46.583-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:50:46.583-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T17:50:46.589-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:50:46.589-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T17:50:46.599-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.155 seconds
+[2023-11-08T17:51:45.725-0500] {processor.py:157} INFO - Started process (PID=49303) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:51:45.729-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T17:51:45.730-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:51:45.730-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:51:45.764-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:51:45.869-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:51:45.869-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T17:51:45.875-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:51:45.875-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T17:51:45.886-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.162 seconds
+[2023-11-08T17:52:42.159-0500] {processor.py:157} INFO - Started process (PID=49373) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:52:42.163-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T17:52:42.163-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:52:42.163-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:52:42.194-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:52:42.296-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:52:42.296-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T17:52:42.302-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:52:42.301-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T17:52:42.312-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.154 seconds
+[2023-11-08T17:53:38.186-0500] {processor.py:157} INFO - Started process (PID=49445) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:53:38.190-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T17:53:38.191-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:53:38.190-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:53:38.222-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:53:38.324-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:53:38.324-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T17:53:38.330-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:53:38.330-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T17:53:38.340-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.154 seconds
+[2023-11-08T17:54:35.810-0500] {processor.py:157} INFO - Started process (PID=49516) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:54:35.815-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T17:54:35.815-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:54:35.815-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:54:35.847-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:54:35.952-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:54:35.952-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T17:54:35.958-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:54:35.957-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T17:54:35.967-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.158 seconds
+[2023-11-08T17:55:37.083-0500] {processor.py:157} INFO - Started process (PID=49588) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:55:37.088-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T17:55:37.088-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:55:37.088-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:55:37.119-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:55:37.221-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:55:37.221-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T17:55:37.227-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:55:37.227-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T17:55:37.237-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.155 seconds
+[2023-11-08T17:56:35.799-0500] {processor.py:157} INFO - Started process (PID=49661) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:56:35.804-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T17:56:35.804-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:56:35.804-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:56:35.836-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:56:35.938-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:56:35.938-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T17:56:35.944-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:56:35.944-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T17:56:35.954-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.155 seconds
+[2023-11-08T17:57:37.345-0500] {processor.py:157} INFO - Started process (PID=49739) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:57:37.350-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T17:57:37.350-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:57:37.350-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:57:37.384-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:57:37.495-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:57:37.494-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T17:57:37.501-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:57:37.501-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T17:57:37.514-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.169 seconds
+[2023-11-08T17:58:38.200-0500] {processor.py:157} INFO - Started process (PID=49833) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:58:38.204-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T17:58:38.205-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:58:38.205-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:58:38.236-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:58:38.338-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:58:38.338-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T17:58:38.344-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:58:38.344-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T17:58:38.354-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.155 seconds
+[2023-11-08T17:59:39.415-0500] {processor.py:157} INFO - Started process (PID=49907) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:59:39.420-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T17:59:39.420-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:59:39.420-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:59:39.452-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T17:59:39.555-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:59:39.554-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T17:59:39.560-0500] {logging_mixin.py:154} INFO - [2023-11-08T17:59:39.560-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T17:59:39.571-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.156 seconds
+[2023-11-08T18:00:40.577-0500] {processor.py:157} INFO - Started process (PID=49983) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:00:40.581-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:00:40.582-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:00:40.582-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:00:40.613-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:00:40.715-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:00:40.715-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:00:40.721-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:00:40.721-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:00:40.732-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.156 seconds
+[2023-11-08T18:01:39.198-0500] {processor.py:157} INFO - Started process (PID=50084) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:01:39.203-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:01:39.203-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:01:39.203-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:01:39.235-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:01:39.340-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:01:39.340-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:01:39.346-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:01:39.346-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:01:39.357-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.159 seconds
+[2023-11-08T18:02:36.942-0500] {processor.py:157} INFO - Started process (PID=50156) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:02:36.946-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:02:36.946-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:02:36.946-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:02:36.979-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:02:37.082-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:02:37.081-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:02:37.088-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:02:37.087-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:02:37.098-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.156 seconds
+[2023-11-08T18:03:35.555-0500] {processor.py:157} INFO - Started process (PID=50390) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:03:35.559-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:03:35.559-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:03:35.559-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:03:35.591-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:03:35.693-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:03:35.693-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:03:35.699-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:03:35.699-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:03:35.709-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.155 seconds
+[2023-11-08T18:04:34.734-0500] {processor.py:157} INFO - Started process (PID=50479) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:04:34.739-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:04:34.739-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:04:34.739-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:04:34.771-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:04:34.907-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:04:34.907-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:04:34.914-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:04:34.914-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:04:34.931-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.197 seconds
+[2023-11-08T18:05:31.910-0500] {processor.py:157} INFO - Started process (PID=50551) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:05:31.914-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:05:31.914-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:05:31.914-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:05:31.946-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:05:32.050-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:05:32.050-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:05:32.056-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:05:32.056-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:05:32.066-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.156 seconds
+[2023-11-08T18:06:31.885-0500] {processor.py:157} INFO - Started process (PID=50630) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:06:31.889-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:06:31.889-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:06:31.889-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:06:31.921-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:06:32.026-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:06:32.025-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:06:32.034-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:06:32.034-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:06:32.045-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.160 seconds
+[2023-11-08T18:07:27.325-0500] {processor.py:157} INFO - Started process (PID=50716) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:07:27.329-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:07:27.329-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:07:27.329-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:07:27.364-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:07:27.471-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:07:27.471-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:07:27.477-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:07:27.476-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:07:27.486-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.162 seconds
+[2023-11-08T18:08:25.070-0500] {processor.py:157} INFO - Started process (PID=50801) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:08:25.074-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:08:25.074-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:08:25.074-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:08:25.106-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:08:25.208-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:08:25.208-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:08:25.213-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:08:25.213-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:08:25.223-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.154 seconds
+[2023-11-08T18:09:23.650-0500] {processor.py:157} INFO - Started process (PID=50881) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:09:23.654-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:09:23.655-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:09:23.655-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:09:23.686-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:09:23.789-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:09:23.789-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:09:23.795-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:09:23.795-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:09:23.805-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.156 seconds
+[2023-11-08T18:10:23.796-0500] {processor.py:157} INFO - Started process (PID=50958) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:10:23.800-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:10:23.800-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:10:23.800-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:10:23.832-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:10:23.934-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:10:23.933-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:10:23.939-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:10:23.939-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:10:23.950-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.154 seconds
+[2023-11-08T18:11:24.215-0500] {processor.py:157} INFO - Started process (PID=51033) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:11:24.219-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:11:24.219-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:11:24.219-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:11:24.251-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:11:24.353-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:11:24.353-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:11:24.359-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:11:24.359-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:11:24.369-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.154 seconds
+[2023-11-08T18:17:22.130-0500] {processor.py:157} INFO - Started process (PID=51135) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:17:22.135-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:17:22.135-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:17:22.135-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:17:22.167-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:17:22.269-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:17:22.268-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:17:22.274-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:17:22.274-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:17:22.284-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.154 seconds
+[2023-11-08T18:23:36.911-0500] {processor.py:157} INFO - Started process (PID=51234) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:23:36.915-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:23:36.916-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:23:36.916-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:23:36.947-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:23:37.049-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:23:37.049-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:23:37.055-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:23:37.055-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:23:37.065-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.155 seconds
+[2023-11-08T18:31:22.022-0500] {processor.py:157} INFO - Started process (PID=51313) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:31:22.027-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:31:22.027-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:31:22.027-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:31:22.059-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:31:22.160-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:31:22.160-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:31:22.166-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:31:22.166-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:31:22.176-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.155 seconds
+[2023-11-08T18:32:22.129-0500] {processor.py:157} INFO - Started process (PID=51384) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:32:22.133-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:32:22.133-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:32:22.133-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:32:22.165-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:32:22.268-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:32:22.267-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:32:22.273-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:32:22.273-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:32:22.284-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.155 seconds
+[2023-11-08T18:33:21.302-0500] {processor.py:157} INFO - Started process (PID=51466) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:33:21.307-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:33:21.307-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:33:21.307-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:33:21.339-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:33:21.442-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:33:21.441-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:33:21.447-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:33:21.447-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:33:21.457-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.155 seconds
+[2023-11-08T18:34:25.995-0500] {processor.py:157} INFO - Started process (PID=51546) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:34:26.000-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:34:26.000-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:34:26.000-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:34:26.032-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:34:26.134-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:34:26.134-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:34:26.140-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:34:26.140-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:34:26.150-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.156 seconds
+[2023-11-08T18:35:26.569-0500] {processor.py:157} INFO - Started process (PID=51618) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:35:26.573-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:35:26.573-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:35:26.573-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:35:26.605-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:35:26.707-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:35:26.707-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:35:26.712-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:35:26.712-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:35:26.723-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.154 seconds
+[2023-11-08T18:36:24.701-0500] {processor.py:157} INFO - Started process (PID=51694) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:36:24.706-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:36:24.706-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:36:24.706-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:36:24.738-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:36:24.839-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:36:24.839-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:36:24.845-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:36:24.845-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:36:24.855-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.155 seconds
+[2023-11-08T18:37:22.065-0500] {processor.py:157} INFO - Started process (PID=51765) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:37:22.070-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:37:22.070-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:37:22.070-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:37:22.102-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:37:22.204-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:37:22.204-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:37:22.210-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:37:22.210-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:37:22.220-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.155 seconds
+[2023-11-08T18:38:19.228-0500] {processor.py:157} INFO - Started process (PID=51838) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:38:19.233-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:38:19.233-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:38:19.233-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:38:19.265-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:38:19.368-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:38:19.368-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:38:19.373-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:38:19.373-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:38:19.384-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.156 seconds
+[2023-11-08T18:39:17.756-0500] {processor.py:157} INFO - Started process (PID=51908) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:39:17.761-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:39:17.761-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:39:17.761-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:39:17.792-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:39:17.894-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:39:17.894-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:39:17.900-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:39:17.900-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:39:17.910-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.155 seconds
+[2023-11-08T18:40:21.989-0500] {processor.py:157} INFO - Started process (PID=51980) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:40:21.994-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:40:21.994-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:40:21.994-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:40:22.026-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:40:22.128-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:40:22.127-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:40:22.133-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:40:22.133-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:40:22.144-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.155 seconds
+[2023-11-08T18:41:23.584-0500] {processor.py:157} INFO - Started process (PID=52057) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:41:23.588-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:41:23.588-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:41:23.588-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:41:23.620-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:41:23.722-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:41:23.722-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:41:23.728-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:41:23.728-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:41:23.738-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.155 seconds
+[2023-11-08T18:42:22.232-0500] {processor.py:157} INFO - Started process (PID=52130) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:42:22.237-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:42:22.237-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:42:22.237-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:42:22.269-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:42:22.371-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:42:22.371-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:42:22.376-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:42:22.376-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:42:22.387-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.155 seconds
+[2023-11-08T18:43:22.878-0500] {processor.py:157} INFO - Started process (PID=52204) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:43:22.883-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:43:22.883-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:43:22.883-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:43:22.916-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:43:23.018-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:43:23.018-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:43:23.023-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:43:23.023-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:43:23.034-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.156 seconds
+[2023-11-08T18:44:24.909-0500] {processor.py:157} INFO - Started process (PID=52279) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:44:24.913-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:44:24.914-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:44:24.914-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:44:24.945-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:44:25.047-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:44:25.047-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:44:25.053-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:44:25.053-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:44:25.063-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.155 seconds
+[2023-11-08T18:45:26.507-0500] {processor.py:157} INFO - Started process (PID=52354) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:45:26.512-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:45:26.512-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:45:26.512-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:45:26.544-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:45:26.646-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:45:26.646-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:45:26.651-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:45:26.651-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:45:26.662-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.155 seconds
+[2023-11-08T18:46:28.019-0500] {processor.py:157} INFO - Started process (PID=52433) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:46:28.024-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:46:28.024-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:46:28.024-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:46:28.056-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:46:28.162-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:46:28.162-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:46:28.168-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:46:28.168-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:46:28.178-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.160 seconds
+[2023-11-08T18:47:32.964-0500] {processor.py:157} INFO - Started process (PID=52526) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:47:32.968-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:47:32.968-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:47:32.968-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:47:33.000-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:47:33.107-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:47:33.107-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:47:33.112-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:47:33.112-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:47:33.122-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.159 seconds
+[2023-11-08T18:48:34.197-0500] {processor.py:157} INFO - Started process (PID=52641) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:48:34.201-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:48:34.202-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:48:34.201-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:48:34.233-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:48:34.337-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:48:34.336-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:48:34.342-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:48:34.342-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:48:34.353-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.156 seconds
+[2023-11-08T18:49:32.640-0500] {processor.py:157} INFO - Started process (PID=52711) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:49:32.644-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:49:32.645-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:49:32.644-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:49:32.676-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:49:32.778-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:49:32.778-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:49:32.783-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:49:32.783-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:49:32.794-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.154 seconds
+[2023-11-08T18:50:33.860-0500] {processor.py:157} INFO - Started process (PID=52792) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:50:33.864-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:50:33.864-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:50:33.864-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:50:33.896-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:50:33.998-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:50:33.998-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:50:34.004-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:50:34.004-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:50:34.014-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.154 seconds
+[2023-11-08T18:51:35.125-0500] {processor.py:157} INFO - Started process (PID=52865) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:51:35.130-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:51:35.130-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:51:35.130-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:51:35.162-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:51:35.264-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:51:35.264-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:51:35.269-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:51:35.269-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:51:35.280-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.155 seconds
+[2023-11-08T18:52:35.832-0500] {processor.py:157} INFO - Started process (PID=52942) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:52:35.837-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:52:35.837-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:52:35.837-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:52:35.869-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:52:35.971-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:52:35.971-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:52:35.977-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:52:35.977-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:52:35.987-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.155 seconds
+[2023-11-08T18:53:37.522-0500] {processor.py:157} INFO - Started process (PID=53017) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:53:37.526-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:53:37.526-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:53:37.526-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:53:37.558-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:53:37.661-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:53:37.661-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:53:37.667-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:53:37.667-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:53:37.677-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.156 seconds
+[2023-11-08T18:54:38.004-0500] {processor.py:157} INFO - Started process (PID=53104) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:54:38.009-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:54:38.009-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:54:38.009-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:54:38.041-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:54:38.143-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:54:38.143-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:54:38.149-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:54:38.149-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:54:38.159-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.155 seconds
+[2023-11-08T18:55:43.485-0500] {processor.py:157} INFO - Started process (PID=53190) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:55:43.490-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:55:43.491-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:55:43.491-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:55:43.522-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:55:43.625-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:55:43.624-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:55:43.630-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:55:43.630-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:55:43.641-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.156 seconds
+[2023-11-08T18:56:47.000-0500] {processor.py:157} INFO - Started process (PID=53274) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:56:47.004-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:56:47.005-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:56:47.005-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:56:47.036-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:56:47.137-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:56:47.137-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:56:47.143-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:56:47.143-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:56:47.153-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.153 seconds
+[2023-11-08T18:57:47.683-0500] {processor.py:157} INFO - Started process (PID=53349) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:57:47.687-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:57:47.687-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:57:47.687-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:57:47.719-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:57:47.821-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:57:47.821-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:57:47.827-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:57:47.826-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:57:47.837-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.154 seconds
+[2023-11-08T18:58:52.230-0500] {processor.py:157} INFO - Started process (PID=53425) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:58:52.235-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:58:52.235-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:58:52.235-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:58:52.267-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:58:52.369-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:58:52.369-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:58:52.375-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:58:52.375-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:58:52.385-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.155 seconds
+[2023-11-08T18:59:53.328-0500] {processor.py:157} INFO - Started process (PID=53503) to work on /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:59:53.332-0500] {processor.py:829} INFO - Processing file /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-11-08T18:59:53.332-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:59:53.332-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:59:53.364-0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-11-08T18:59:53.466-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:59:53.466-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-08T18:59:53.472-0500] {logging_mixin.py:154} INFO - [2023-11-08T18:59:53.472-0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-11-08T18:59:53.482-0500] {processor.py:179} INFO - Processing /Users/az/anaconda3/envs/python38/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.155 seconds
