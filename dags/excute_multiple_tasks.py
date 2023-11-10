@@ -27,4 +27,4 @@ with DAG(
         bash_command = 'echo TASK B has executed!'
     )
 
-taskA.set_upstream(taskB)
+taskA.set_downstream(taskB)
