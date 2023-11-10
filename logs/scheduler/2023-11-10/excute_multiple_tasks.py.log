@@ -443,3 +443,31 @@ NameError: name 'days_ago' is not defined
 [2023-11-10T17:12:23.018-0500] {logging_mixin.py:154} INFO - [2023-11-10T17:12:23.018-0500] {dag.py:2941} INFO - Sync 1 DAGs
 [2023-11-10T17:12:23.028-0500] {logging_mixin.py:154} INFO - [2023-11-10T17:12:23.027-0500] {dag.py:3722} INFO - Setting next_dagrun for executing_multiple_tasks to 2023-11-09T00:00:00+00:00, run_after=2023-11-10T00:00:00+00:00
 [2023-11-10T17:12:23.038-0500] {processor.py:179} INFO - Processing /Users/az/airflow/dags/excute_multiple_tasks.py took 0.170 seconds
+[2023-11-10T17:12:54.102-0500] {processor.py:157} INFO - Started process (PID=88882) to work on /Users/az/airflow/dags/excute_multiple_tasks.py
+[2023-11-10T17:12:54.105-0500] {processor.py:829} INFO - Processing file /Users/az/airflow/dags/excute_multiple_tasks.py for tasks to queue
+[2023-11-10T17:12:54.106-0500] {logging_mixin.py:154} INFO - [2023-11-10T17:12:54.106-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/airflow/dags/excute_multiple_tasks.py
+[2023-11-10T17:12:54.122-0500] {processor.py:839} INFO - DAG(s) dict_keys(['executing_multiple_tasks']) retrieved from /Users/az/airflow/dags/excute_multiple_tasks.py
+[2023-11-10T17:12:54.243-0500] {logging_mixin.py:154} INFO - [2023-11-10T17:12:54.242-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-10T17:12:54.252-0500] {logging_mixin.py:154} INFO - [2023-11-10T17:12:54.252-0500] {dag.py:3722} INFO - Setting next_dagrun for executing_multiple_tasks to 2023-11-09T00:00:00+00:00, run_after=2023-11-10T00:00:00+00:00
+[2023-11-10T17:12:54.262-0500] {processor.py:179} INFO - Processing /Users/az/airflow/dags/excute_multiple_tasks.py took 0.161 seconds
+[2023-11-10T17:13:15.272-0500] {processor.py:157} INFO - Started process (PID=88900) to work on /Users/az/airflow/dags/excute_multiple_tasks.py
+[2023-11-10T17:13:15.277-0500] {processor.py:829} INFO - Processing file /Users/az/airflow/dags/excute_multiple_tasks.py for tasks to queue
+[2023-11-10T17:13:15.277-0500] {logging_mixin.py:154} INFO - [2023-11-10T17:13:15.277-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/airflow/dags/excute_multiple_tasks.py
+[2023-11-10T17:13:15.295-0500] {processor.py:839} INFO - DAG(s) dict_keys(['executing_multiple_tasks']) retrieved from /Users/az/airflow/dags/excute_multiple_tasks.py
+[2023-11-10T17:13:15.438-0500] {logging_mixin.py:154} INFO - [2023-11-10T17:13:15.437-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-10T17:13:15.453-0500] {logging_mixin.py:154} INFO - [2023-11-10T17:13:15.453-0500] {dag.py:3722} INFO - Setting next_dagrun for executing_multiple_tasks to 2023-11-09T00:00:00+00:00, run_after=2023-11-10T00:00:00+00:00
+[2023-11-10T17:13:15.472-0500] {processor.py:179} INFO - Processing /Users/az/airflow/dags/excute_multiple_tasks.py took 0.201 seconds
+[2023-11-10T17:13:46.873-0500] {processor.py:157} INFO - Started process (PID=88926) to work on /Users/az/airflow/dags/excute_multiple_tasks.py
+[2023-11-10T17:13:46.877-0500] {processor.py:829} INFO - Processing file /Users/az/airflow/dags/excute_multiple_tasks.py for tasks to queue
+[2023-11-10T17:13:46.878-0500] {logging_mixin.py:154} INFO - [2023-11-10T17:13:46.877-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/airflow/dags/excute_multiple_tasks.py
+[2023-11-10T17:13:46.895-0500] {processor.py:839} INFO - DAG(s) dict_keys(['executing_multiple_tasks']) retrieved from /Users/az/airflow/dags/excute_multiple_tasks.py
+[2023-11-10T17:13:47.018-0500] {logging_mixin.py:154} INFO - [2023-11-10T17:13:47.018-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-10T17:13:47.027-0500] {logging_mixin.py:154} INFO - [2023-11-10T17:13:47.027-0500] {dag.py:3722} INFO - Setting next_dagrun for executing_multiple_tasks to 2023-11-09T00:00:00+00:00, run_after=2023-11-10T00:00:00+00:00
+[2023-11-10T17:13:47.038-0500] {processor.py:179} INFO - Processing /Users/az/airflow/dags/excute_multiple_tasks.py took 0.165 seconds
+[2023-11-10T17:14:18.040-0500] {processor.py:157} INFO - Started process (PID=88966) to work on /Users/az/airflow/dags/excute_multiple_tasks.py
+[2023-11-10T17:14:18.044-0500] {processor.py:829} INFO - Processing file /Users/az/airflow/dags/excute_multiple_tasks.py for tasks to queue
+[2023-11-10T17:14:18.045-0500] {logging_mixin.py:154} INFO - [2023-11-10T17:14:18.045-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/az/airflow/dags/excute_multiple_tasks.py
+[2023-11-10T17:14:18.063-0500] {processor.py:839} INFO - DAG(s) dict_keys(['executing_multiple_tasks']) retrieved from /Users/az/airflow/dags/excute_multiple_tasks.py
+[2023-11-10T17:14:18.189-0500] {logging_mixin.py:154} INFO - [2023-11-10T17:14:18.189-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-10T17:14:18.198-0500] {logging_mixin.py:154} INFO - [2023-11-10T17:14:18.198-0500] {dag.py:3722} INFO - Setting next_dagrun for executing_multiple_tasks to 2023-11-09T00:00:00+00:00, run_after=2023-11-10T00:00:00+00:00
+[2023-11-10T17:14:18.210-0500] {processor.py:179} INFO - Processing /Users/az/airflow/dags/excute_multiple_tasks.py took 0.170 seconds
