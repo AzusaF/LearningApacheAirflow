@@ -11,27 +11,30 @@ default_args = {
     'owner' : 'loonycorn'
 }
 
-def increment_by_1(counter):
-    print("Count {counter}!".format(counter=counter))
+def increment_by_1(value):
+    print("Value {value}!".format(value=value))
 
-    return counter + 1
+    return value + 1
 
+def multiply_by_100(ti):
+    value = ti.xcom_pull(task_ids='increment_by_1')
 
-def multiply_by_100(counter):
-    print("Count {counter}!".format(counter=counter))
+    print("Value {value}!".format(value=value))
 
-    return counter * 100
+    return value * 100
 
+def subtract_9(ti):
+    value = ti.xcom_pull(task_ids='multiply_by_100')
 
-# def subtract_9(counter):
-#     print("Count {counter}!".format(counter=counter))
+    print("Value {value}!".format(value=value))
 
-#     return counter - 9
+    return value - 9
 
-# def print(counter):
-#     print("Count {counter}!".format(counter=counter))
+def print_value(ti):
+    value = ti.xcom_pull(task_ids='subtract_9')
 
-#     return counter - 9
+    print("Value {value}!".format(value=value))
+
 
 with DAG(
     dag_id = 'cross_task_communication',
@@ -41,17 +44,26 @@ with DAG(
     schedule_interval = '@daily',
     tags = ['xcom', 'python']
 ) as dag:
-    taskA = PythonOperator(
+    increment_by_1 = PythonOperator(
         task_id = 'increment_by_1',
         python_callable = increment_by_1,
-        op_kwargs={'counter': 100}
+        op_kwargs={'value': 1}
     )
 
-    taskB = PythonOperator(
+    multiply_by_100 = PythonOperator(
         task_id = 'multiply_by_100',
-        python_callable = multiply_by_100,
-        op_kwargs={'counter': 9}
+        python_callable = multiply_by_100
+    )
+
+    subtract_9 = PythonOperator(
+        task_id = 'subtract_9',
+        python_callable = subtract_9
+    )
+
+    print_value = PythonOperator(
+        task_id = 'print_value',
+        python_callable = print_value
     )
 
 
-taskA >> taskB
+increment_by_1 >> multiply_by_100 >> subtract_9 >> print_value
