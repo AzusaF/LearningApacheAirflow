@@ -1,0 +1,17 @@
+[2023-11-20T19:00:03.466-0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: hello_world.hello_world_task scheduled__2023-11-20T00:00:00+00:00 [queued]>
+[2023-11-20T19:00:03.470-0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: hello_world.hello_world_task scheduled__2023-11-20T00:00:00+00:00 [queued]>
+[2023-11-20T19:00:03.470-0500] {taskinstance.py:1361} INFO - Starting attempt 1 of 1
+[2023-11-20T19:00:03.477-0500] {taskinstance.py:1382} INFO - Executing <Task(BashOperator): hello_world_task> on 2023-11-20 00:00:00+00:00
+[2023-11-20T19:00:03.479-0500] {standard_task_runner.py:57} INFO - Started process 85970 to run task
+[2023-11-20T19:00:03.482-0500] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'hello_world', 'hello_world_task', 'scheduled__2023-11-20T00:00:00+00:00', '--job-id', '94', '--raw', '--subdir', 'DAGS_FOLDER/simple_hello_world.py', '--cfg-path', '/var/folders/84/qprfknln75z1qjwbnr6d2l2h0000gn/T/tmp3_a4z3ah']
+[2023-11-20T19:00:03.483-0500] {standard_task_runner.py:85} INFO - Job 94: Subtask hello_world_task
+[2023-11-20T19:00:03.503-0500] {task_command.py:416} INFO - Running <TaskInstance: hello_world.hello_world_task scheduled__2023-11-20T00:00:00+00:00 [running]> on host macbook-air-2.cogeco.local
+[2023-11-20T19:00:03.534-0500] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='loonycorn' AIRFLOW_CTX_DAG_ID='hello_world' AIRFLOW_CTX_TASK_ID='hello_world_task' AIRFLOW_CTX_EXECUTION_DATE='2023-11-20T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2023-11-20T00:00:00+00:00'
+[2023-11-20T19:00:03.535-0500] {subprocess.py:63} INFO - Tmp dir root location: /var/folders/84/qprfknln75z1qjwbnr6d2l2h0000gn/T
+[2023-11-20T19:00:03.535-0500] {subprocess.py:75} INFO - Running command: ['/bin/bash', '-c', 'echo Hello World using "with"!']
+[2023-11-20T19:00:03.539-0500] {subprocess.py:86} INFO - Output:
+[2023-11-20T19:00:03.542-0500] {subprocess.py:93} INFO - Hello World using with!
+[2023-11-20T19:00:03.542-0500] {subprocess.py:97} INFO - Command exited with return code 0
+[2023-11-20T19:00:03.553-0500] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=hello_world, task_id=hello_world_task, execution_date=20231120T000000, start_date=20231121T000003, end_date=20231121T000003
+[2023-11-20T19:00:03.599-0500] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2023-11-20T19:00:03.607-0500] {taskinstance.py:2778} INFO - 0 downstream tasks scheduled from follow-on schedule check
