@@ -8,7 +8,7 @@ from airflow import DAG
 from airflow.operators.python import PythonOperator
 
 default_args = {
-    'owner' : 'loonycorn'
+    'owner' : 'az'
 }
 
 def greet_hello(name):

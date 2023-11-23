@@ -9,7 +9,7 @@ from airflow.operators.python_operator import PythonOperator
 
 
 default_args = {
-   'owner': 'loonycorn'
+   'owner': 'az'
 }
 
 
