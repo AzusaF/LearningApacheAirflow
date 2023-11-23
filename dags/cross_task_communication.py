@@ -16,6 +16,7 @@ def increment_by_1(value):
 
     return value + 1
 
+# ti stands for Task Instance
 def multiply_by_100(ti):
     value = ti.xcom_pull(task_ids='increment_by_1')
 
