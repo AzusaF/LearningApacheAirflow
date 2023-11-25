@@ -30,8 +30,8 @@ with DAG(
     dag_id = 'cron_catchup_backfill',
     description = 'Using crons, catchup, and backfill',
     default_args = default_args,
-    start_date = days_ago(5),
-    schedule_interval = '0 0 * * *',
+    start_date = days_ago(20),
+    schedule_interval = '0 */12 * * 6,0',
     catchup = True
 ) as dag:
 
